@@ -1,0 +1,33 @@
+_repo: Upsidonia_39905
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marshall, Archibald
+    alias: Marshall, Arthur Hammond
+    birthdate: 1866
+    deathdate: 1934
+    gutenberg_agent_id: '35191'
+    url: http://www.gutenberg.org/2009/agents/35191
+description: Title; Contents; Chapter I; Chapter II; Chapter III; Chapter IV; Chapter
+  V; Chapter VI; Chapter VII; Chapter VIII; Chapter IX; Chapter X; Chapter XI; Chapter
+  XII; Chapter XIII; Chapter XIV; Chapter XV; Chapter XVI; Chapter XVII; Chapter XVIII;
+  Chapter XIX; Chapter XX; Chapter XXI; Chapter XXII; Chapter XXIII; Chapter XXIV;
+  Chapter XXV; Chapter XXVI; Chapter XXVII; Chapter XXVIII; Chapter XXIX; Chapter
+  XXX; Chapter XXXI; Chapter XXXII; Endnotes;
+gutenberg_issued: '2012-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39905'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Satire'
+- !lcsh 'Fiction'
+- !lcc 'PR'
+title: Upsidonia
+url: http://www.gutenberg.org/ebooks/39905
